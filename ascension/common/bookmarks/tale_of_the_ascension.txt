@@ -1,0 +1,19 @@
+bookmarks = {
+	bookmark = {
+		name = "TALE_OF_THE_ASCENSION_NAME"
+		desc = "TALE_OF_THE_ASCENSION_DESC"
+		date = 1312.1.1.12
+		picture = "GFX_select_date_1936"
+		default_country = "TST"
+		default = yes
+		
+		"TST"={
+			history = "OTHER_TALE_OF_THE_ASCENSION_DESC"
+		}
+
+		effect = {
+			randomize_weather = 22345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}

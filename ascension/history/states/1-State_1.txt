@@ -1,0 +1,21 @@
+state={
+	id=1
+	name="STATE_1"
+	history={
+		owner = TST
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			air_base = 1
+			3838 = {
+				naval_base = 3
+			}
+		}
+		add_core_of = FRA
+	}
+
+	provinces={
+		487 1995 4691 4692 
+	}
+	manpower=1
+}
